@@ -1,4 +1,7 @@
 class StaticPagesController < ApplicationController
+  def welcome
+  end
+  
   def jobseeker
   end
 
@@ -7,4 +10,6 @@ class StaticPagesController < ApplicationController
 
   def about
   end
+
+
 end

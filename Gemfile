@@ -10,6 +10,8 @@ end
 gem 'rails', '~> 5.1.6'
 gem 'devise'
 # Use sqlite3 as the database for Active Record
+gem 'bootstrap-sass', '3.2.0.2' 
+gem 'jquery-rails'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
