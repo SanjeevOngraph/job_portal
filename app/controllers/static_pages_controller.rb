@@ -1,7 +1,10 @@
 class StaticPagesController < ApplicationController
-  def JobSeeker
+  def jobseeker
   end
 
-  def Employers
+  def employers
+  end
+
+  def about
   end
 end
